@@ -1,2 +1,2 @@
 # hello-world
-you have rean many of these
+you have read many of these
